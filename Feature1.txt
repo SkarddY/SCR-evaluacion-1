@@ -4,3 +4,10 @@ void suma()
 
 a+b = c
 
+void multiplicacion()
+
+a*b = c
+
+void resta()
+
+a-b= c
