@@ -1,1 +1,0 @@
-console.writeline("Hola, hoy es el dia internacional del Perro");
