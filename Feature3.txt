@@ -1,3 +1,7 @@
 console.writeline("Hola, hoy es el dia internacional del Perro");
 
 "Las rosas son rojas, el viento las mueve, yo seré el 6, tú serás el 9"
+
+<b>
+Jaja no me acuerdo de programar en html :c
+</b>
