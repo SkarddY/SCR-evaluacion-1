@@ -1,5 +1,5 @@
-console.writeline("Hasta la proximaaaaa");
+console.writeline("A mi no, me cancelaron");
 
-We know what we are, we know what we are, Champions of Europe, we know what we are
+Chelsea champions of Europe
 
-#COYB #LukWhosBack
+#JorginhoBallonD'Or
